@@ -12,5 +12,7 @@
 
 
 ### HTTP文件服务器
-
 该工具包含一个简易的HTTP文件服务器，启动后会创建一个/share目录，您可以用于分享文件。
+
+### Release：
+百度云盘：https://pan.baidu.com/s/10JW9-CSI2sHqhoupmhhbvA   提取码：gitb
